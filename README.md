@@ -1,5 +1,27 @@
 # [JSL05] Submission: Galaxy Playlist Generator
 
+This project includes a simple web application that dynamically generates playlists for each Guardian from Guardians of the Galaxy, based on their preferred music genres. JavaScript's map() and filter() functions were used to iterate over and filter the songs list so to create playlists for the Guardians of the galaxy according to their favorite music genre. The project leverages HTML, CSS, and JavaScript for a responsive design and solution  to the problem of creating genre specific playlists from one main playlist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You will:
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_5_StudentNo_Classcode_Group_Name-Surname_JSL05
 2. Code your solution.
